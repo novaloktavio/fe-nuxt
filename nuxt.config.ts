@@ -6,7 +6,7 @@ export default defineNuxtConfig({
   runtimeConfig: {
     public: {
       metapixel: {
-        default: { id: '1033390091669048', pageView: '/pages/**' },
+        default: { id: '1057798089302085', pageView: '/pages/**' },
       }
     }
   }

@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    home
+    home update
     <NuxtWelcome />
   </div>
 </template>
